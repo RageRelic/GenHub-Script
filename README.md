@@ -1,2 +1,2 @@
-# GenHub-Script
+# Script
  do not steal script pls
